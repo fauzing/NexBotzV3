@@ -1,3 +1,5 @@
+
+
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -25,13 +27,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'gak ada'
-global.syt = 'https://youtube.com/chann/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/fauzing'
+global.sig = '-'
+global.syt = 'https://youtube.com/@Fauzibrando'
+global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/Cyi1MzLiCAd9Rfbd2gSxqu'
-global.swa = 'wa.me/6282159532255'
-global.swb = 'https://discord.gg/4HvezMAw'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.swa = 'wa.me/628812743180'
+global.swb = '-'
+global.snh = '-' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
@@ -42,19 +44,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62821595322555'
+global.nomorbot = '62821595322556'
 global.nomorown = '6282159532255'
-global.nomorown1 = '-'
-global.namebot = 'Zingfo'
+global.namebot = 'Z̸̴̢̨͟͜ingfo'
 global.nameown = 'Zaifu'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62821595322556'],
   ['6282159532255'],
+  ['62821595322550'],
   ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['628989513496', 'Bang Fuad', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,16 +105,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Zingfo' //Main Watermark
-global.wm2 = 'Zaifu'
-global.wm3 = 'Zepep'
+global.wm = 'Z̸̴̢̨͟͜ingfo' //Main Watermark
+global.wm2 = 'SUBS FAUZING'
+global.wm3 = 'Zaifu | BOT'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Zaifu | ʙʏ ${global.nameown}`
-global.author = 'Zaifu' 
-global.packname = 'Zingbot'
-global.danied = '✘ ERROR'
-global.ultahowner = 'AGUSTUS 17 2007'
+global.titlebot = `Zingfo | ʙʏ ${global.nameown}`
+global.author = 'Z̸̴̢̨͟͜aifu' 
+global.packname = 'ZINGBOT'
+global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.ultahowner = 'agustus 17'
 
 
 /*============== LOGO ==============*/
@@ -121,20 +122,20 @@ global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbn
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/1c067b349efe8f97e2817.jpg'
+global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya Zingfo Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ZAIFU'
+global.nameowner = 'Zaifu'
 global.umurowner = '15'
-global.asalowner = 'KALTIM'
+global.asalowner = 'Kalimantan timur'
 global.nomorowner = 'wa.me/6282159532255'
-global.pacarowner = 'anti pacaran bosque'
+global.pacarowner = 'Tidak ada bosque'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -147,7 +148,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/eab73c91053a1c4072931.jpg'
+global.thumbdoc = 'https://telegra.ph/file/cf9899e70163960c96ed2.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -181,12 +182,6 @@ global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
-global.thumbnailUrl = [
-'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg','https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-'https://telegra.ph/file/55e5af5f33fbd57104187.jpg','https://telegra.ph/file/af236598456b95884bd15.jpg',
-'https://telegra.ph/file/de92ed4a729887ffc974c.jpg','https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg']
 global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
 'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
 'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
@@ -388,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'Z̸̴̢̨͟͜aifu'
+global.stickauth = `Zingbot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
